@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//example/report/cityPolCompare.py=utf-8
+encoding//example/report/cityPolDeadCompare.py=utf-8
+encoding//example/report/cityPolTotalGraph.py=utf-8
+encoding//example/report/common/cityPolConst.py=utf-8
+encoding//example/report/test/SeoulCityPolCompare2.py=utf-8
+encoding//example/report/test/SeoulCityPolCompare4.py=utf-8
+encoding//example/report/util/dataCalUtil.py=utf-8
+encoding//example/report/util/fileReaderUtil.py=utf-8
+encoding//example/report/util/plotEncodingUtil.py=utf-8
